@@ -1,0 +1,62 @@
+[
+  {
+    "Name": "Emma Smith",
+    "Location": "US",
+    "SignupDate": "1/2/2020",
+    "Source": "phone",
+    "InvestmentDate": "1/2/2021",
+    "InvestmentTime": "06:00",
+    "RefundDate": "1/2/2021",
+    "RefundTime": "09:00"
+  },
+  {
+    "Name": "Benjamin Johnson",
+    "Location": "Europe",
+    "SignupDate": "12/2/2020",
+    "Source": "web app",
+    "InvestmentDate": "2/1/2021",
+    "InvestmentTime": "06:30",
+    "RefundDate": "1/2/2021",
+    "RefundTime": "23:00"
+  },
+  {
+    "Name": "Olivia Davis",
+    "Location": "Europe",
+    "SignupDate": "1/2/2020",
+    "Source": "web app",
+    "InvestmentDate": "2/2/2021",
+    "InvestmentTime": "13:00",
+    "RefundDate": "2/2/2021",
+    "RefundTime": "20:00"
+  },
+  {
+    "Name": "Ethan Anderson",
+    "Location": "US",
+    "SignupDate": "1/11/2011",
+    "Source": "web app",
+    "InvestmentDate": "2/1/2021",
+    "InvestmentTime": "13:00",
+    "RefundDate": "2/2/2021",
+    "RefundTime": "16:00"
+  },
+  {
+    "Name": "Sophia Wilson",
+    "Location": "US",
+    "SignupDate": "2/1/2020",
+    "Source": "phone",
+    "InvestmentDate": "2/1/2021",
+    "InvestmentTime": "22:00",
+    "RefundDate": "2/2/2021",
+    "RefundTime": "5:00"
+  },
+  {
+    "Name": "Liam Martinez",
+    "Location": "Europe",
+    "SignupDate": "1/1/2020",
+    "Source": "web app",
+    "InvestmentDate": "1/1/2021",
+    "InvestmentTime": "11:00",
+    "RefundDate": "11/1/2021",
+    "RefundTime": "12:00"
+  }
+]
